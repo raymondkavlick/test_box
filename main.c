@@ -9,7 +9,7 @@
  * (This version is for use with the Curtis 1355 test fixture) Martin Wibert 07/13/18
  * File name main.c
 */
-
+ 
 /*
 This code is used for performing a (go-no-go) bench test for a model # 1355-5002 motor controller
 using an Infineon XMC1400 Boot Kit uP board as the master CAN bus controller.
