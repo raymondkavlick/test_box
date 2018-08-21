@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3462866787</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_wdt.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_posif.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_common.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\can_loopback_ext_osc.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_flash.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_usic.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_can.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_scu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_scu.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_vadc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_gpio_map.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_eru.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_common.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_vadc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_flash.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_XMC1400.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_wdt.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_eru.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Include\XMC1000_RomFunctionTable.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ledts.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_rtc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_math.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_scu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_math.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ledts.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_acmp.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_i2c.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_bccu.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_vadc.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_prng.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Include\XMC1400.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_rtc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Include\core_cm0.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_bccu.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_gpio.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_eru_map.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_posif_map.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_eru.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\can_loopback_ext_osc.pbd</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_ccu8_map.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_ledts.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_uart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_eru.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_wdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_usic_map.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_flash.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_ccu8.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_vadc_map.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_device.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_prng.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_usic.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Include\system_XMC1400.h</file>
+            <file>$TOOLKIT_DIR$\config\linker\Infineon\XMC1404xxxxx200.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_eru.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_bccu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc1_gpio.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_posif.h</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_usic.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_ccu4.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_posif.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Source\system_XMC1400.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_prng.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_usic.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc1_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Source\IAR\startup_XMC1400.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc1_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_ledts.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_can.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_vadc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_posif.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_bccu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc1_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_wdt.c</file>
+            <file>$PROJ_DIR$\..\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_rtc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_ccu4.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_ccu8.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc1_eru.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_acmp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_eru.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc1_scu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\src\xmc_math.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ccu8.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_can.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_acmp.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_can.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_ccu4_map.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_XMC1400.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_common.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_i2c.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\time32.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_acmp.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_i2c.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_prng.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ccu4.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_rtc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ccu8.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_flash.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_uart.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc_can_map.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_XMC1400.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\inc\xmc1_scu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_ccu4.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\xmc_spi.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 4</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\can_loopback_ext_osc.out</name>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 72 66 18 136 22 61 76 44 29 113 75 111 138 110 3 74 120 124 31 30 81 65 21 117 131 69 16 0 41 50 78 39</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 131</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 137 57 79 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 137 45 119 38 34 67 133 64 132 130 57 55 70 73 36 47 43 71 6 79 9 112 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Source\system_XMC1400.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 136</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 45 55 132 140 130 73 36 67 112 6 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71 6 140 130 112 55 43 45 67 132 73 36</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_prng.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130 70 132 140 55 34 45 6 119 133 38 64 73 36 47 43 71 67 42 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 137 127 134 122 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 133 134 45 137 64 34 6 38 132 130 55 127 119 70 73 36 47 43 71 67 9 112 23 122</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_usic.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 60 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 38 140 60 130 112 133 64 34 45 9 119 55 70 73 36 47 43 71 79 67 6 137</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc1_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 129 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 34 119 140 45 112 133 64 132 130 129 55 70 73 36 47 43 71 17 67 6 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\CMSIS\Infineon\XMC1400_series\Source\IAR\startup_XMC1400.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc1_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 127 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 134 122 23 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 47 55 73 132 43 71 67 119 70 36 34 137 9 134 23 133 38 64 130 45 6 127 112 122</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_ledts.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55 70 140 36 34 132 9 73 47 43 71 119 133 38 64 130 45 112 56 67 6 137</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34 55 140 45 70 132 130 6 133 38 64 73 36 47 43 71 67 119 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 8</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137 135</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9 70 140 36 34 132 112 119 55 73 47 43 71 135 133 38 64 130 45 114 67 6 137</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 137 32 79 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55 73 132 43 71 47 119 70 140 36 34 67 32 137 133 38 64 130 45 6 9 112 79 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_vadc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119 64 34 133 140 45 6 63 38 132 130 55 9 70 73 36 47 43 71 67 137 40 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_posif.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119 132 6 70 140 36 34 9 55 73 47 43 71 51 133 38 64 130 45 67 137 77 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_bccu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130 55 38 132 140 9 133 64 34 45 6 137 119 70 73 36 47 43 71 67 37 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 79 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79 43 132 71 67 73 70 47 140 119 55 36 34 60 133 38 64 130 45 6 35 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc1_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 11 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130 64 133 132 140 38 34 45 67 119 11 55 70 73 36 47 43 71 6 13 2 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_wdt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 20</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 140 55 119 38 34 133 64 132 130 6 137 9 70 73 36 47 43 71 67 59 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 114 9 137 135 2 11 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 34 133 140 45 2 38 132 130 67 11 114 55 70 73 36 47 43 71 6 135 119 112 9 137 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_ccu4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 115 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 140 36 34 132 9 119 115 55 73 47 43 71 112 137 133 38 64 130 45 80 67 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_ccu8.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 110</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 54 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 70 140 36 34 112 9 119 54 55 73 47 43 71 137 133 38 64 130 45 62 67 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc1_eru.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 14</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 34 133 140 45 119 38 132 130 67 49 55 70 73 36 47 43 71 6 52 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_acmp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73 132 38 43 71 119 47 55 133 64 140 36 34 6 70 130 45 67 123 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_eru.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 70 36 34 132 49 55 73 47 43 71 67 119 133 38 64 130 45 6 52 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 11 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 140 133 64 130 38 34 45 67 119 11 55 70 73 36 47 43 71 6 13 2 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc1_scu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 10</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73 132 43 71 119 70 47 55 140 36 34 137 133 38 64 130 45 112 9 67 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\src\xmc_math.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68 119 133 132 140 130 73 36 34 55 38 70 47 64 43 45 67 112 6 71 9 137</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 36 34 55 9 140 132 119 73 47 43 71 133 38 64 130 45 112 68 67 6 137</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
